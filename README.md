@@ -1,5 +1,5 @@
 # contrast security JSON generator
-Python script used to general JSON formatted files. Can use to setup your apps with Contrast Assess. 
+Python script used to generate JSON formatted files. Can use to setup your apps with Contrast Assess. 
 
 These files are generated in either a one-off manner or bulk import using a formatted spreadsheet. 
 
